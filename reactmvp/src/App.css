@@ -38,11 +38,22 @@
 }
 
 .Pokemon{
-  color: #61dafb;
+  color: #680909;
   flex-wrap: wrap;
   justify-content: center;
   gap: 8ex;
 }
+
+
+.PokemonCards{
+  color: #09681e;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8ex;
+}
+
+
+
 
 
 
