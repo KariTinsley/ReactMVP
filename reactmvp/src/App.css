@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  color: black;
+
 }
 
 .App-logo {
@@ -32,30 +34,20 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
 
-.Pokemon{
-  color: #680909;
-  flex-wrap: wrap;
+
+.Cards {
+  color: aliceblue;
   justify-content: center;
-  gap: 8ex;
+  display:flex;
+  flex-wrap: wrap;
 }
 
-
-.PokemonCards{
-  color: #09681e;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 8ex;
+body{
+  background-color: rgb(7, 22, 99);
 }
-
-
-
-
-
-
-
-
